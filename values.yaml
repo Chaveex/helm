@@ -1,7 +1,7 @@
 image:
   repository: "ghcr.io/chaveex/spring-petclinic"
 
-replicas: 1
+replicas: 2
 
 app:
   contextPath: ""
