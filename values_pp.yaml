@@ -1,0 +1,4 @@
+image:
+  tag: 4.0.0-SNAPSHOT
+
+replicas: 2
